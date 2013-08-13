@@ -1,0 +1,5 @@
+*.pyc
+virtualenv
+/static
+/uploads
+artnet/artnetdb
